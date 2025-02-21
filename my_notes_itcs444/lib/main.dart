@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'location_detail.dart'; // Import the file
+import 'tryAss1.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: LocationDetail(), // Set LocationDetail as the home screen
+    home: Ass1(), // Set LocationDetail as the home screen
   ));
 }
 
